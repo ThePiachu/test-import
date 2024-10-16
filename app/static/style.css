@@ -1,0 +1,184 @@
+body
+{
+}
+
+div.All
+{
+	width: 1024px; 
+	margin: auto;
+}
+
+div.Button
+{
+	width: 100%;
+	height: 52px;
+}
+
+div.Menu
+{
+	position: inherit;
+	top: 0px;
+	width: 200px;
+	float: left;
+}
+
+div.Body
+{
+	position: inherit;
+	width: 800px;
+	float: top;
+	float: left;
+}
+
+div.BodyInside
+{
+	position: inherit;
+	width: 100%;
+	float: right;
+}
+
+div.SortingBar
+{
+	position: inherit;
+	width: 100%;
+	float: right;
+}
+div.Bar
+{
+	position: inherit;
+	width: 100%;
+	float: right;
+}
+
+div.Header
+{
+	position: inherit;
+	height: 100px;
+	width: 100%;
+	float: left;
+	float: top;
+	text-align:center;
+}
+
+div.SideBar
+{
+	position: inherit;
+	top: 0px;
+	width: 150px;
+	float: right;
+}
+
+div.Footer
+{
+	margin-top: 30px;
+	position: inherit;
+	float: left;
+	width: 100%;
+}
+
+div.ItemTile
+{
+	border-style:outset;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 150px;
+	float: left;
+	border-color:#bd9034;
+}
+
+div.ItemTileSideBar
+{
+	border-style:outset;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 100px;
+	float: left;
+	border-color:#bd9034;
+}
+
+p.Error
+{
+	color:red;
+}
+
+form.Button
+{
+	margin-bottom: 0px;
+}
+
+form.SortButton
+{
+	margin-bottom: 0px;
+	float: left;
+}
+
+form.ButtonCategory
+{
+	margin-bottom: 0px;
+	float: left;
+}
+
+input.Button
+{
+	color: #CCCAC6;
+	font: 25px tahoma;
+	height: 40px;
+	width: 100%;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}
+
+input.SortButton
+{
+	color: #CCCAC6;
+	font: tahoma;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}
+
+input.NavigationButton
+{
+	color: #CCCAC6;
+	font: tahoma;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}
+
+input.ButtonCart
+{
+	color: #00FF00;
+	font: 25px tahoma;
+	height: 40px;
+	width: 100%;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}
+
+input.ButtonCategory
+{
+	color: #CCCAC6;
+	font: tahoma;
+	font-size: 20px;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}
+
+input.ButtonCategorySmall
+{
+	color: #CCCAC6;
+	font: tahoma;
+	font-size: 15px;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}
+
+input.SmallButton
+{
+	color: #CCCAC6;
+	font: tahoma;
+	font-size: 20px;
+	height: 30px;
+	width: 100%;
+	background-image:url(/static/goldfill.jpg);	
+	border-color:#bd9034;
+}

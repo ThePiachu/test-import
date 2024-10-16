@@ -1,0 +1,5 @@
+cron:
+- description: update
+  url: /update
+  target: backend
+  schedule: every 24 hours
